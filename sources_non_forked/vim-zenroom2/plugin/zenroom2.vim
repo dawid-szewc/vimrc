@@ -2,7 +2,7 @@
 "File:        zenroom2.vim
 "Description: Emulates iA Writer environment when editing Markdown, reStructuredText
 "             or text files.
-"Maintainer:  Amir Salihefendic <amix@doist.io>
+"Maintainer:  Amir Salihefendic <dawid-szewc@doist.io>
 "Version:     0.1
 "Last Change: 2013-12-29
 "License:     BSD

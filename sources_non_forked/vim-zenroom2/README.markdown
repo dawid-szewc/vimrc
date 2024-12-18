@@ -18,4 +18,4 @@ Additionally you may want to have a shortcut. Add this to your vimrc:
 * [Writing Markdown With Style in Vim](http://astrails.com/blog/2013/8/12/writing-markdown-with-style-in-vim)
 * [lite-dfm](https://github.com/bilalq/lite-dfm)
 * [vimroom](https://github.com/mikewest/vimroom)
-* [vim-zenroom](https://github.com/amix/vim-zenroom)
+* [vim-zenroom](https://github.com/dawid-szewc/vim-zenroom)

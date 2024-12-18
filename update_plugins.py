@@ -17,7 +17,7 @@ ctrlp.vim https://github.com/ctrlpvim/ctrlp.vim
 mayansmoke https://github.com/vim-scripts/mayansmoke
 nerdtree https://github.com/preservim/nerdtree
 nginx.vim https://github.com/chr4/nginx.vim
-open_file_under_cursor.vim https://github.com/amix/open_file_under_cursor.vim
+open_file_under_cursor.vim https://github.com/dawid-szewc/open_file_under_cursor.vim
 tlib https://github.com/tomtom/tlib_vim
 vim-addon-mw-utils https://github.com/MarcWeber/vim-addon-mw-utils
 vim-bundle-mako https://github.com/sophacles/vim-bundle-mako
@@ -34,7 +34,7 @@ vim-multiple-cursors https://github.com/terryma/vim-multiple-cursors
 vim-fugitive https://github.com/tpope/vim-fugitive
 vim-rhubarb https://github.com/tpope/vim-rhubarb
 goyo.vim https://github.com/junegunn/goyo.vim
-vim-zenroom2 https://github.com/amix/vim-zenroom2
+vim-zenroom2 https://github.com/dawid-szewc/vim-zenroom2
 vim-repeat https://github.com/tpope/vim-repeat
 vim-commentary https://github.com/tpope/vim-commentary
 vim-gitgutter https://github.com/airblade/vim-gitgutter
